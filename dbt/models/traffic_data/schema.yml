@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: traffic_data
+    description: 'Raw pNEUMA traffic data'
+    database: traffic_data
+    schema: public
+    tables:
+      - name: vehicles
+        description: 'Vehicle type info'
+      - name: trajectories
+        description: 'Snapshots of vehicle trajectory'
