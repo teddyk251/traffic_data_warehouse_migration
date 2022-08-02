@@ -53,7 +53,7 @@ A scalable data migration from a pipeline initially built using Postgres as the 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![Pipeline Design](https://github.com/teddyk251/traffic-data-ELT-pipeline/blob/main/screenshots/Pipeline-design.jpg?raw=true)
-A dockerized Extract, Load, Transform (ELT) pipeline with PostgreSQL, Airflow, DBT, and a Redash.
+A dockerized Extract, Load, Transform (ELT) pipeline with MySQL, Airflow, DBT, and Apache Superset.
 
 ### Built With
 
