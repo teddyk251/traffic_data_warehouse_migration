@@ -5,4 +5,4 @@ CREATE TABLE IF NOT EXISTS vehicles (
     traveled_distance DOUBLE DEFAULT NULL,
     avg_speed DOUBLE DEFAULT NULL,
     track_id INT DEFAULT NULL,
-)
+);
