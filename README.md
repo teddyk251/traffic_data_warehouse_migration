@@ -95,9 +95,9 @@ Make sure you have docker installed on local machine.
     activate and trigger load_dag
     activate and trigger dbt_dag
     ```
-6. Access redash dashboard
+6. Access Superset dashboard
     ```JS
-    Navigate to `http://localhost:5000/` on the browser
+    Navigate to `http://localhost:8088/` on the browser
     ```
 
 <!-- CONTRIBUTING -->
